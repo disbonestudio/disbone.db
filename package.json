@@ -1,0 +1,27 @@
+{
+  "name": "disbone.db",
+  "version": "1.0.0",
+  "description": "disbone studio studio",
+  "main": "index.js",
+  "scripts": {
+    "test": "node index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/disbonestudio/disbone.db"
+  },
+  "keywords": [
+      "database",
+      "db",
+      "disbone",
+      "disbone-studio",
+      "nodejs",
+      "simple-db",
+      "lightweight-db",
+      "json-db"
+    ],
+  "author": "disbone studio",
+  "license": "ISC",
+  "dependencies": {
+  }
+}
